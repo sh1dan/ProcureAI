@@ -162,7 +162,7 @@ ProcureAI/
 
 ## 👥 Autorzy
 
-Projekt uniwersytecki - **ProcureAI Team**
+Projekt uniwersytecki - **Yan Riabonenko**
 
 ---
 
