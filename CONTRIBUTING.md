@@ -6,7 +6,7 @@ Dziękujemy za zainteresowanie współtworzeniem ProcureAI! 🎉
 
 ### Zgłaszanie błędów / Reporting Bugs
 
-1. Sprawdź, czy problem nie został już zgłoszony w [Issues](https://github.com/yourusername/ProcureAI/issues)
+1. Sprawdź, czy problem nie został już zgłoszony w [Issues](https://github.com/sh1dan/ProcureAI/issues)
 2. Jeśli nie, utwórz nowe issue z:
    - Opisem problemu
    - Krokami do reprodukcji
@@ -15,7 +15,7 @@ Dziękujemy za zainteresowanie współtworzeniem ProcureAI! 🎉
 
 ### Proponowanie funkcji / Suggesting Features
 
-1. Sprawdź istniejące [Issues](https://github.com/yourusername/ProcureAI/issues)
+1. Sprawdź istniejące [Issues](https://github.com/sh1dan/ProcureAI/issues)
 2. Utwórz nowe issue z:
    - Opisem funkcji
    - Uzasadnieniem, dlaczego byłaby przydatna

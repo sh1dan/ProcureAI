@@ -282,7 +282,7 @@ ProcureAI Team
 
 ## 📞 Kontakt / Contact
 
-W razie pytań lub problemów, utwórz [issue](https://github.com/yourusername/ProcureAI/issues) w repozytorium.
+W razie pytań lub problemów, utwórz [issue](https://github.com/sh1dan/ProcureAI/issues) w repozytorium.
 
 ---
 
